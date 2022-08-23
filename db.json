@@ -4,61 +4,82 @@
             "title": "Sushi",
             "img": "https://resources.matcha-jp.com/resize/720x2000/2022/01/16-120658.jpeg",
             "description": "Sushi is one of the best known Japanese foods around the world. It is offered in various ways and prices, from the entertaining kaiten-zushi (conveyor belt sushi), where visitors can enjoy sushi for a reasonable price of about 100 yen per plate, to high-end, long-established, traditional Edomae sushi (Edo-style sushi) where you will sit at a quiet counter to eat as the sushi is prepared right before your eyes.",
-            "id":1
+            "id": 1,
+            "categoryId": 1
         },
         {
             "title": "Sashimi",
             "img": "https://resources.matcha-jp.com/resize/720x2000/2019/05/06-76329.jpeg",
             "description": "Similar to sushi but without the rice, sashimi is raw fish sliced into easy-to-eat pieces. The high-quality of the fish caught in all regions of Japan makes it a great choice no matter if you are visiting Tokyo, Kyoto, or anywhere else.",
-            "id":1
+            "id": 2,
+            "categoryId": 1
         },
         {
             "title": "Tempura",
             "img": "https://resources.matcha-jp.com/resize/720x2000/2022/01/16-120660.jpeg",
             "description": "Tempura is a dish involving ingredients like seafood, meat, and vegetables covered in batter and deep-fried in oil. The batter usually contains flour and egg. Tempura is generally dipped in a special sauce called tentsuyu before eating. Tentsuyu is a sauce made of broth from kombu or dried bonito, mirin, and soy sauce mixed at a ratio of 4:1:1 and cooked. You can add ginger or grated radish to your liking for a more refreshing taste.",
-            "id": 1
+            "id": 3,
+            "categoryId": 1
         },
         {
             "title": "Malloreddus alla Campidanese",
             "img": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F210211142942-22-classic-italian-dishes.jpg",
             "description": "Malloreddus are tiny shell-shaped durum wheat flower pasta that are served with a sauce of onions, sausage (preferably flavored with fennel) ragù or dried salami and dressed with salty Sardinian pecorino cheese. Basil can also be added.",
-            "id": 3
+            "id": 4,
+            "categoryId": 3
         },
         {
             "title": "Bouillabaisse",
             "img": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220526165503-02-classic-french-dishes-bouillabaisse.jpg",
             "description": "With a long name and an even longer list of ingredients, bouillabaisse is seaside city Marseille's gift to France's culinary canon. The soup, once a poor man's dish and now a mainstay on many a Michelin-starred menu, elevates the catch of the day beyond your standard soupe de poid",
-            "id": 2
+            "id": 5,
+            "categoryId": 2
         },
         {
             "title": "Cauliflower soup",
             "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cauliflower_soup-877eac5.jpg?resize=960,872?quality=90&webp=true&resize=375,341",
             "description": "Throw together this comforting and creamy cauliflower soup for lunch or a light supper. It's perfect topped with parsley and served with crusty bread",
-            "id": 2
+            "id": 6,
+            "categoryId": 2
         },
         {
             "title": "Rigatoni alla Carbonara",
             "img": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F210211140233-03-classic-italian-dishes.jpg",
             "description": "Few ingredients go into making this dish, but the secret is in their quality, and the way they stick to the tube shaped pasta. Pecorino cheese, pork cheek and raw organic eggs are all that's neeid",
-            "id": 3
+            "id": 7,
+            "categoryId": 3
         },
         {
             "title": "Brodetto",
             "img": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F210211141225-06-classic-italian-dishes.jpg",
             "description": "Solo diners should avoid ordering this dish, unless they're: A) really hungry; and B) massively into fish. Brodetto is a fish soup of gigantic proportions. It's served as a single main course but usualid",
-            "id": 2
+            "id": 8,
+            "categoryId": 2
         },
         {
             "title": "Linguine allo Scoglio",
             "img": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F210211142532-18-classic-italian-dishes.jpg",
             "description": "Meaning 'sea rock' in Italian, scoglio is a name that suits this dish of linguine entwined with calamari, clams, mussels, shrimp and baby prawns and dressed with chili pepper, parsley, tomatoes and a glug of white wine.",
-            "id": 3
+            "id": 9,
+            "categoryId": 3
         }
     ],
 
     "categories": [
-        {"category": "seafood", "id": 1},
-        {"category": "soup", "id": 2},
-        {"category": "pasta", "id": 3}
+        {
+            "category": "seafood",
+            "id": 1,
+            "img":"https://www.foodandwine.com/recipes/seafood-boil-with-cajun-seasoning"
+        },
+        {
+            "category": "soup", 
+            "id": 2,
+            "img": "https://img.apmcdn.org/74ac9b732d3043807e7caeee51dccab773bd376f/uncropped/5e8852-splendid-table-improvised-soups-c-ozgurcoskun-istock-gettyimages-595731814-lede.jpg"
+        },
+        {
+            "category": "pasta", 
+            "id": 3,
+            "img": "https://www.tastingtable.com/img/gallery/30-types-of-pasta-and-when-you-should-be-using-them/l-intro-1659010210.jpg"
+        }
     ]
 }
