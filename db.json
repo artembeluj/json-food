@@ -67,17 +67,17 @@
 
     "categories": [
         {
-            "category": "seafood",
+            "title": "seafood",
             "id": 1,
-            "img":"https://www.foodandwine.com/recipes/seafood-boil-with-cajun-seasoning"
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCewaMIlKZxjUVVbJt9xWlGuCwDvkwH7IuQw&usqp=CAU"
         },
         {
-            "category": "soup", 
+            "title": "soups", 
             "id": 2,
             "img": "https://img.apmcdn.org/74ac9b732d3043807e7caeee51dccab773bd376f/uncropped/5e8852-splendid-table-improvised-soups-c-ozgurcoskun-istock-gettyimages-595731814-lede.jpg"
         },
         {
-            "category": "pasta", 
+            "title": "pasta", 
             "id": 3,
             "img": "https://www.tastingtable.com/img/gallery/30-types-of-pasta-and-when-you-should-be-using-them/l-intro-1659010210.jpg"
         }
